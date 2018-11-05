@@ -1,0 +1,8 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="803" y="377" />
+    <location key="GitCloneDialog.0.0.1600.900" x="616" y="292" />
+    <location key="SettingsEditor.0.0.1600.900" x="277" y="69" />
+    <location key="deploy.picker.dialog.0.0.1600.900" x="480" y="179" />
+  </component>
+</application>
